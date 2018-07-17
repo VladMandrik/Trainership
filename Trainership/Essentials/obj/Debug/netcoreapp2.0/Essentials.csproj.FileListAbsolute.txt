@@ -1,0 +1,11 @@
+D:\Projects\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.deps.json
+D:\Projects\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.runtimeconfig.json
+D:\Projects\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.runtimeconfig.dev.json
+D:\Projects\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.dll
+D:\Projects\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.csprojAssemblyReference.cache
+D:\Projects\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.csproj.CoreCompileInputs.cache
+D:\Projects\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.AssemblyInfoInputs.cache
+D:\Projects\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.AssemblyInfo.cs
+D:\Projects\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.pdb
+D:\Projects\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.dll
+D:\Projects\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.pdb
