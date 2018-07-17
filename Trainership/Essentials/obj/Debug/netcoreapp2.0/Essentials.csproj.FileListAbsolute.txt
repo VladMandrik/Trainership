@@ -9,3 +9,15 @@ D:\Projects\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.AssemblyIn
 D:\Projects\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.pdb
 D:\Projects\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.dll
 D:\Projects\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.pdb
+D:\Repositories\Trainership\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.deps.json
+D:\Repositories\Trainership\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.runtimeconfig.json
+D:\Repositories\Trainership\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.runtimeconfig.dev.json
+D:\Repositories\Trainership\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.dll
+D:\Repositories\Trainership\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.pdb
+D:\Repositories\Trainership\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.csprojAssemblyReference.cache
+D:\Repositories\Trainership\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.csproj.CoreCompileInputs.cache
+D:\Repositories\Trainership\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.AssemblyInfoInputs.cache
+D:\Repositories\Trainership\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.AssemblyInfo.cs
+D:\Repositories\Trainership\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.dll
+D:\Repositories\Trainership\Trainership\Essentials\obj\Debug\netcoreapp2.0\Essentials.pdb
+D:\Repositories\Trainership\Trainership\Essentials\bin\Debug\netcoreapp2.0\Essentials.xml

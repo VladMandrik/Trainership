@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Essentials</name>
+    </assembly>
+    <members>
+        <member name="M:Essentials.Controllers.SortingController.Sort(Essentials.Controllers.SortingType,System.Int32[])">
+            <summary>
+            This method sorts received array
+            </summary>
+            <param name="sortingType"> The type sort</param>
+            <param name="array"> Array that will be sort</param>
+            <returns>Request time</returns>
+        </member>
+    </members>
+</doc>
